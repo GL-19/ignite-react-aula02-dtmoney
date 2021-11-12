@@ -16,7 +16,7 @@ createServer({
 					title: "Bonus por performance",
 					type: "deposit",
 					category: "Salário",
-					amount: "1000",
+					amount: 1000,
 					createdAt: new Date("2021-11-10 09:00:00"),
 				},
 				{
@@ -24,7 +24,7 @@ createServer({
 					title: "Conta de Luz",
 					type: "withdraw",
 					category: "Casa",
-					amount: "250",
+					amount: 250,
 					createdAt: new Date("2021-11-11 09:00:00"),
 				},
 			],
